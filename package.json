@@ -1,0 +1,18 @@
+{
+  "name": "maxima-node-mongo",
+  "version": "1.0.0",
+  "description": "A test repo configure node.js and mongodb",
+  "type":"module",
+  "main": "index.js",
+
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+}
